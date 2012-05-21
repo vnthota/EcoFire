@@ -10,7 +10,7 @@
 
 body {
 	padding-top: 0px;
-	background-image:url(../images/bg.png);
+	background-image:url(../images/bg.png)
 }
 
 section{
@@ -28,6 +28,7 @@ section{
 	background-color: #324A6F;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
+	-webkit-background-size: 1466px 968px;
 	background-size:cover;
 	height: auto !important; 
 	min-height: 100%;

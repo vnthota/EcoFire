@@ -464,6 +464,7 @@ h1 {
   font-size: 30px;
   line-height: 36px;
   color: #00ccff;
+  font-weight: normal;
 }
 
 h1 small {
@@ -474,6 +475,7 @@ h2 {
   font-size: 20px;
   line-height: 36px;
   color: #00ccff;
+  font-weight: normal;
 }
 
 h2 small {
