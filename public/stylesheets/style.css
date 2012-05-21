@@ -50,9 +50,15 @@ section{
 
 
 .container-fluid{
-	padding-top: 20px;
+	padding-top: 5px;
 }
 
+section#images,
+section#learn,
+section#specs,
+section#footer{
+	padding-top: 55px;
+}
 
 @font-face {
     font-family: 'BebasNeueRegular';
@@ -76,11 +82,11 @@ section{
 	font-family: "Quicksand";
 	font-weight: 300;
 	color: #fcc;
-	font-size: 15px;
+	font-size: 14px;
 }
 
 section#specs{
-	margin-top: 20px;
+	margin-top: 20px;	
 }
 
 .specs li{
