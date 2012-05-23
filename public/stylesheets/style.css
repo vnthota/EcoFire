@@ -57,7 +57,7 @@ section#images,
 section#learn,
 section#specs,
 section#footer{
-	padding-top: 55px;
+	padding-top: 10px;
 }
 
 @font-face {
@@ -80,9 +80,10 @@ section#footer{
 
 .specs{
 	font-family: "Quicksand";
-	font-weight: 300;
+	font-weight: 400;
 	color: #fcc;
-	font-size: 14px;
+	font-size: 15px;
+	letter-spacing: .05em;
 }
 
 section#specs{
@@ -90,7 +91,7 @@ section#specs{
 }
 
 .specs li{
-	line-height: 25px;
+	line-height: 26px;
 }
 
 section#footer{
@@ -100,12 +101,10 @@ section#footer{
 dl.dl-horizontal{
 	font-family: "Quicksand";
 	color: #fcc;
-	font-size: 16px;
+	font-size: 14px;
 }
 
-p.numbers{
-	font-size: 16px;
-}
+
 
 p.footer{
 	color:#fcc;
