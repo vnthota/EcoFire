@@ -137,3 +137,15 @@ p.pull-right{
 		right: 1195px;
 		top: -8px;
 }
+
+#footer.well{
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-moz-border-radius-bottomright: 0px;
+	-moz-border-radius-bottomleft: 0px;
+	border-radius: 5px;
+	border-bottom-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+}
