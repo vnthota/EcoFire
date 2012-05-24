@@ -53,12 +53,11 @@ section{
 	padding-top: 5px;
 }
 
-section#images,
-section#learn,
-section#specs,
-section#footer{
-	padding-top: 10px;
+#main.container-fluid{
+	padding-top: 20px;
 }
+
+
 
 @font-face {
     font-family: 'BebasNeueRegular';
