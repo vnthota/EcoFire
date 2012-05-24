@@ -17,6 +17,8 @@ section{
 	position: relative;
 }
 
+
+
 #home {
 	background-image:url(../images/lightfire.png);
 	background-repeat-x: no-repeat;
@@ -40,12 +42,13 @@ section{
 
 #home #logomain{
 	display:block;
+	position: relative;
 	max-width: 100%;
 	margin: 0 auto;
-	padding-top: 10%;
+	padding-top: 20%;
 	padding-left: 0;
-	padding-right: 50%;
-	padding-bottom: 31%;
+	padding-right: 0%;
+	padding-bottom: 20%;
 }
 
 
@@ -86,7 +89,18 @@ section{
 }
 
 section#specs{
-	margin-top: 20px;	
+	margin-top: 10px;	
+}
+
+#specssheet.row-fluid{
+	padding-top: 20px;
+}
+
+section#images{
+	margin-top: -20px;
+	padding-top: 20px;
+}
+
 }
 
 .specs li{
@@ -94,7 +108,7 @@ section#specs{
 }
 
 section#footer{
-	margin-top: 45px;
+	margin-top: 100px;
 }
 
 dl.dl-horizontal{
