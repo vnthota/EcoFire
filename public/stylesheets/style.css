@@ -25,7 +25,7 @@ section{
 	background-repeat-y: no-repeat;
 	background-attachment: fixed;
 	background-position-x: 50%;
-	background-position-y: 50%;
+	background-position-y: 100%;
 	background-clip: initial;
 	background-color: #324A6F;
 	-webkit-background-size: 1466px 968px;
@@ -89,7 +89,7 @@ section{
 }
 
 section#specs{
-	margin-top: 10px;	
+	padding-top: 55px;	
 }
 
 #specssheet.row-fluid{
@@ -98,14 +98,12 @@ section#specs{
 
 section#images{
 	margin-top: -20px;
-	padding-top: 20px;
+	padding-top: 55px;
 }
 
-}
-
-
-section#footer{
+section#footers{
 	margin-top: 100px;
+	padding-top: 100px;
 }
 
 dl.dl-horizontal{
