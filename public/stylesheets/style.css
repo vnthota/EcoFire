@@ -25,12 +25,12 @@ section{
 	background-repeat-y: no-repeat;
 	background-attachment: fixed;
 	background-position-x: 50%;
-	background-position-y: 100%;
+	background-position-y: 50%;
 	background-clip: initial;
 	background-color: #324A6F;
 	-webkit-background-size: 1466px 968px;
-	-moz-background-size:cover;
-	background-size:cover;
+	-moz-background-size: 1466px 968px;
+	background-size: 1466px 968px;
 	height: auto !important; 
 	min-height: 100%;
 	height: 100%;
@@ -102,8 +102,8 @@ section#images{
 }
 
 section#footers{
-	margin-top: 100px;
-	padding-top: 100px;
+	margin-top: 0px;
+	padding-top: 200px;
 }
 
 dl.dl-horizontal{
