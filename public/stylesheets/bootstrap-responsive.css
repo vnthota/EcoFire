@@ -85,6 +85,9 @@
   .visible-desktop {
     display: none !important ;
   }
+  .video-container {
+	padding-bottom: 36.5%;
+  }
 }
 
 @media (max-width: 480px) {
