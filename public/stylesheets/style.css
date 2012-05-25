@@ -20,7 +20,7 @@ section{
 
 
 #home {
-	background-image:url(../images/lightfire.png);
+	background-image:url(../images/lightfire2.jpg);
 	background-repeat-x: no-repeat;
 	background-repeat-y: no-repeat;
 	background-attachment: fixed;
@@ -128,6 +128,10 @@ p.pull-right{
 	color:#aaa;
 	font-weight: 300;
 	font-size: 12px;
+}
+
+p#details{
+	text-align: center;
 }
 
 #logos{
