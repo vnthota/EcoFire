@@ -88,6 +88,9 @@
   .video-container {
 	padding-bottom: 36.5%;
   }
+  #credits.span12{
+	margin-top: 10px;
+  }
 }
 
 @media (max-width: 480px) {

@@ -559,6 +559,11 @@ ol.unstyled {
 
 dl {
   margin-bottom: 18px;
+  font-family: "Quicksand";
+  font-weight: 400;
+  color: #fcc;
+  font-size: 14px;
+
 }
 
 dt,

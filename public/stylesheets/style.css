@@ -129,6 +129,16 @@ p#details{
 	text-align: center;
 }
 
+img#footerlogo{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p#footertext{
+	text-align: center;
+}
+
 #logos{
 	display: block;
 	position: absolute;
@@ -163,11 +173,20 @@ p#details{
 	border-bottom-left-radius: 0px;
 }
 
+
+#credits.span12{
+	margin-top: 50px;
+}
+
+#contacts.span4{
+	text-align: center;
+}
+
 .video-container {
 	position: relative;
 	padding-bottom: 43.7%%;
 	padding-top: 30px;
-	height: 0;
+	max-height: 100%;
 	overflow: hidden;
 }
 
