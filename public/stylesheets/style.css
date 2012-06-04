@@ -20,6 +20,7 @@ section{
 
 
 #home {
+	display: block;
 	background-image:url(../images/lightfire2.jpg);
 	background-repeat-x: no-repeat;
 	background-repeat-y: no-repeat;
