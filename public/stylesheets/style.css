@@ -89,10 +89,6 @@ section{
 	letter-spacing: .05em;
 }
 
-section {
-
-}
-
 section#specs{
 	padding-top: 55px;	
 }
@@ -188,8 +184,14 @@ p#footertext{
 
 #credits.span12{
 	margin-top: 0px;
+	padding-bottom: 75px;
 }
 
 #contacts.span4{
 	text-align: center;
+}
+
+#us.row-fluid{
+	padding: 25px;
+	padding-bottom: 0px;
 }
