@@ -142,6 +142,7 @@ img#footerlogo{
 	display:block;
 	margin-left: auto;
 	margin-right: auto;
+	height: 45px;
 }
 
 p#footertext{
