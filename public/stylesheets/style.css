@@ -115,6 +115,7 @@ section#footers{
 	position: relative;
 	margin-top: 55px;
 }
+
 dl.dl-horizontal{
 	font-family: "Quicksand";
 	color: #fcc;
@@ -171,7 +172,6 @@ p#footertext{
 }
 
 #footer.well{
-	display:block;
 	position: relative;
 	margin-bottom: 0px;
 	margin-top: 55px;
